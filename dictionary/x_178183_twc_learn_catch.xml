@@ -4,6 +4,7 @@
         <element label="Date" max_length="40" name="date" type="glide_date"/>
         <element default="50" label="depth" max_length="40" name="depth" type="integer"/>
         <element default="anchovy" label="Lure" max_length="40" name="lure" type="string"/>
+        <element label="Member" max_length="40" name="member" type="string"/>
         <element default="spring" label="Species" max_length="40" name="species" type="string"/>
         <element label="Time" max_length="40" name="time" type="glide_time"/>
         <element label="Weight ounces" max_length="40" name="weight_ounces" type="integer"/>
